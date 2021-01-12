@@ -19,7 +19,7 @@ Computational Physics and Biology... just to name a few.
 
 ## Meeting Times
 
-Tue, Thurs 12:15 - 13:30 [On Zoom](https://zoom.us/meeting/92140915457)
+Tue, Thurs 12:15 - 13:30 [On Zoom](https://zoom.us/j/92140915457)
 
 ## Instructor
 
