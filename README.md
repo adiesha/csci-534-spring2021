@@ -53,16 +53,16 @@ in class.
 
 ### Jan
 
-| Date | Description                                | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
-|------|--------------------------------------------|----------------------|----------------------|--------------------------------------------|--------------------------------------------------------------------|
-| 1/12 | [Intro](./notes/2021-01-12.pdf)            |                      |                      | DMLN L1, CGAA 1                            | [1](https://montana.box.com/s/vqdx6dkjakuwqkhzybxubqdmifgb4ysn)    |
-| 1/14 |  Warm-up: Slope Stats                      |                      |                      | DMLN L2                                    |                                                                    |
-|      |                                            |                      |                      |                                            |                                                                    |
-| 1/19 |  Convex Hull                               |                      |                      | DMLN L3, CGAA 1.1                          |                                                                    |
-| 1/21 |  Convex Hull                               | [HW 01](./hw/01.pdf) |                      | DMLN L4                                    |                                                                    |
-|      |                                            |                      |                      |                                            |                                                                    |
-| 1/26 |                                            |                      |                      |                                            |                                                                    |
-| 1/28 |                                            |                      | [HW 01](./hw/01.pdf) |                                            |                                                                    |
+| Date | Description                                    | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
+|------|------------------------------------------------|----------------------|----------------------|--------------------------------------------|--------------------------------------------------------------------|
+| 1/12 | [Intro](./notes/2021-01-12.pdf)                |                      |                      | DMLN L1, CGAA 1                            | [1](https://montana.box.com/s/vqdx6dkjakuwqkhzybxubqdmifgb4ysn)    |
+| 1/14 | [Warm-up: Slope Stats](./notes/2021-01-14.pdf) |                      |                      | DMLN L2                                    | [1](https://montana.box.com/s/aqbkivfrilf8dsznh4ye4k8q3ad92qyv)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 1/19 |  Convex Hull                                   |                      |                      | DMLN L3, CGAA 1.1                          |                                                                    |
+| 1/21 |  Convex Hull                                   | [HW 01](./hw/01.pdf) |                      | DMLN L4                                    |                                                                    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 1/26 |                                                |                      |                      |                                            |                                                                    |
+| 1/28 |                                                |                      | [HW 01](./hw/01.pdf) |                                            |                                                                    |
 
 ### Feb
 
