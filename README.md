@@ -19,7 +19,7 @@ Computational Physics and Biology... just to name a few.
 
 ## Meeting Times
 
-Tue, Thurs 12:15 - 13:30 [On Zoom](https://zoom.us/meeting/92140915457)
+Tue, Thurs 12:15 - 13:30 [On Zoom](https://zoom.us/j/92140915457)
 
 ## Instructor
 
@@ -53,16 +53,16 @@ in class.
 
 ### Jan
 
-| Date | Description                                                                       | Assigned                           | Due                                   | Recommended Reading                        |
-|------|-----------------------------------------------------------------------------------|------------------------------------|---------------------------------------|--------------------------------------------|
-| 1/12 |  Intro                                                                            |                                    |                                       | DMLN L1, CGAA 1                            |
-| 1/14 |  Warm-up: Slope Stats                                                             |                                    |                                       | DMLN L2                                    |
-|      |                                                                                   |                                    |                                       |                                            |
-| 1/19 |  Convex Hull                                                                      |                                    |                                       | DMLN L3, CGAA 1.1                          |
-| 1/21 |  Convex Hull                                                                      |  Homework 1                        |                                       | DMLN L4                                    |
-|      |                                                                                   |                                    |                                       |                                            |
-| 1/26 |                                                                                   |                                    |                                       |                                            |
-| 1/28 |                                                                                   |                                    |  Homework 1                           |                                            |
+| Date | Description                                    | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
+|------|------------------------------------------------|----------------------|----------------------|--------------------------------------------|--------------------------------------------------------------------|
+| 1/12 | [Intro](./notes/2021-01-12.pdf)                |                      |                      | DMLN L1, CGAA 1                            | [1](https://montana.box.com/s/vqdx6dkjakuwqkhzybxubqdmifgb4ysn)    |
+| 1/14 | [Warm-up: Slope Stats](./notes/2021-01-14.pdf) |                      |                      | DMLN L2                                    | [1](https://montana.box.com/s/aqbkivfrilf8dsznh4ye4k8q3ad92qyv)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 1/19 | [Convex Hull](./notes/2021-01-19.pdf)          |                      |                      | DMLN L3, CGAA 1.1                          | [1](https://montana.box.com/s/17ljdso22a993lzzjfejgkydl0duzlll)    |
+| 1/21 | [Convex Hull](./notes/2021-01-21.pdf)          | [HW 01](./hw/01.pdf) |                      | DMLN L4                                    | [1](https://montana.box.com/s/5btgqonj8vfl1eknu6c8j7gvvqz3dbqc)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 1/26 |                                                |                      |                      |                                            |                                                                    |
+| 1/28 |                                                |                      | [HW 01](./hw/01.pdf) |                                            |                                                                    |
 
 ### Feb
 
