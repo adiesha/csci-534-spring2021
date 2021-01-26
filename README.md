@@ -169,6 +169,8 @@ resources repo](https://github.com/compTAG/student-resources).
 
 I encourage collaboration, see collaboration section for details.
 
+I will write assignments in latex and [post the source](./hw/src).
+
 ### Discussion
 
 Group discussions, questions, and announcements will take place using Slack. It
