@@ -61,8 +61,8 @@ in class.
 | 1/19 | [Convex Hull](./notes/2021-01-19.pdf)          |                      |                      | DMLN L3, CGAA 1.1                          | [1](https://montana.box.com/s/17ljdso22a993lzzjfejgkydl0duzlll)    |
 | 1/21 | [Convex Hull](./notes/2021-01-21.pdf)          | [HW 01](./hw/01.pdf) |                      | DMLN L4                                    | [1](https://montana.box.com/s/5btgqonj8vfl1eknu6c8j7gvvqz3dbqc)    |
 |      |                                                |                      |                      |                                            |                                                                    |
-| 1/26 | [Seg Intersect](./notes/2021-01-26.pdf)        |                      |                      |                                            | [1](https://montana.box.com/s/twlsoy2xkmoejeaqypuegh9oxskt2kcw)    |                                                         |
-| 1/28 |                                                |                      | [HW 01](./hw/01.pdf) |                                            |                                                                    |
+| 1/26 | [Seg Intersect](./notes/2021-01-26.pdf)        |                      |                      |                                            | [1](https://montana.box.com/s/twlsoy2xkmoejeaqypuegh9oxskt2kcw)    |
+| 1/28 | [Seg Intersect 2](./notes/2021-01-28.pdf)      |                      | [HW 01](./hw/01.pdf) |                                            | [1](https://montana.box.com/s/eias1xo869v3icu56lhooe7h81gx3r9v)    |
 
 ### Feb
 
