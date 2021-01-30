@@ -27,7 +27,7 @@ David L. Millman, Ph.D.
 
 **Email**: david.millman@montana.edu
 
-**Office hours**: Fri 15:00-17:00, or by appointment
+**Office hours**: Fri 15:00-17:00, or by [appointment](https://calendly.com/dmillman)
 
 **Office**: [On Webex](https://bit.ly/webex-with-dave)
 
