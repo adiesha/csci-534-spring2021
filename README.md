@@ -59,26 +59,26 @@ in class.
 | 1/14 | [Warm-up: Slope Stats](./notes/2021-01-14.pdf) |                      |                      | DMLN L2                                    | [1](https://montana.box.com/s/aqbkivfrilf8dsznh4ye4k8q3ad92qyv)    |
 |      |                                                |                      |                      |                                            |                                                                    |
 | 1/19 | [Convex Hull](./notes/2021-01-19.pdf)          |                      |                      | DMLN L3, CGAA 1.1                          | [1](https://montana.box.com/s/17ljdso22a993lzzjfejgkydl0duzlll)    |
-| 1/21 | [Convex Hull](./notes/2021-01-21.pdf)          | [HW 01](./hw/01.pdf) |                      | DMLN L4                                    | [1](https://montana.box.com/s/5btgqonj8vfl1eknu6c8j7gvvqz3dbqc)    |
+| 1/21 | [Convex Hull 2](./notes/2021-01-21.pdf)        | [HW 01](./hw/01.pdf) |                      | DMLN L4                                    | [1](https://montana.box.com/s/5btgqonj8vfl1eknu6c8j7gvvqz3dbqc)    |
 |      |                                                |                      |                      |                                            |                                                                    |
-| 1/26 | [Seg Intersect](./notes/2021-01-26.pdf)        |                      |                      |                                            | [1](https://montana.box.com/s/twlsoy2xkmoejeaqypuegh9oxskt2kcw)    |
-| 1/28 | [Seg Intersect 2](./notes/2021-01-28.pdf)      |                      | [HW 01](./hw/01.pdf) |                                            | [1](https://montana.box.com/s/eias1xo869v3icu56lhooe7h81gx3r9v)    |
+| 1/26 | [Seg Intersect](./notes/2021-01-26.pdf)        |                      |                      | DMLN L5, CGAA 2.1                          | [1](https://montana.box.com/s/twlsoy2xkmoejeaqypuegh9oxskt2kcw)    |
+| 1/28 | [Seg Intersect 2](./notes/2021-01-28.pdf)      |                      | [HW 01](./hw/01.pdf) | DMLN L5, CGAA 2.1                          | [1](https://montana.box.com/s/eias1xo869v3icu56lhooe7h81gx3r9v)    |
 
 ### Feb
 
-| Date | Description                                                                       | Assigned                           | Due                                   | Recommended Reading                        |
-|------|-----------------------------------------------------------------------------------|------------------------------------|---------------------------------------|--------------------------------------------|
-| 2/02 |                                                                                   |                                    |                                       |                                            |
-| 2/04 |                                                                                   |                                    |                                       |                                            |
-|      |                                                                                   |                                    |                                       |                                            |
-| 2/09 | Exam 1 (tentative)                                                                |                                    |                                       |                                            |
-| 2/11 |                                                                                   |                                    |                                       |                                            |
-|      |                                                                                   |                                    |                                       |                                            |
-| 2/16 |                                                                                   |                                    |                                       |                                            |
-| 2/18 |                                                                                   |                                    |                                       |                                            |
-|      |                                                                                   |                                    |                                       |                                            |
-| 2/23 |                                                                                   |                                    |                                       |                                            |
-| 2/25 |                                                                                   |                                    |                                       |                                            |
+| Date | Description                                    | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
+|------|------------------------------------------------|----------------------|----------------------|--------------------------------------------|--------------------------------------------------------------------|
+| 2/02 | [DCEL](./notes/2021-02-02.pdf)                 |                      |                      | DMLN L24, CGAA 2.2-.3                      | [1](https://montana.box.com/s/8zuz9fc84ckja73l6dxsxifrlb7lr6xq)    |
+| 2/04 | Polygon triangulation                          | [HW 02](./hw/02.pdf) |                      | DMLN L6, CGAA 3.2                          |
+|      |                                                |                      |                      |                                            |
+| 2/09 |                                                |                      |                      |                                            |
+| 2/11 |                                                |                      | [HW 02](./hw/02.pdf) |                                            |
+|      |                                                |                      |                      |                                            |
+| 2/16 |                                                |                      |                      |                                            |
+| 2/18 | Exam 1                                         |                      |                      |                                            |
+|      |                                                |                      |                      |                                            |
+| 2/23 |                                                |                      |                      |                                            |
+| 2/25 |                                                |                      |                      |                                            |
 
 ### March
 
@@ -119,9 +119,6 @@ in class.
 
 ### Potential Upcoming Topics:
 
-- Line Segment intersection
-- Data structures for planar subdivisions
-- Polygon Triangulation
 - Trapizoidation
 - Duality
 - Linear Programming

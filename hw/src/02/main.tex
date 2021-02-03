@@ -1,0 +1,89 @@
+\documentclass[11pt]{article}
+
+% set these commands
+\newcommand{\course}{CSCI 534}
+\newcommand{\proj}{Homework 02}
+\newcommand{\dueDate}{2-11-2021}
+\newcommand{\instructor}{David L. Millman}
+
+\usepackage{macros}
+
+
+\begin{document}
+
+{ ~\\
+    \course \\ 
+    \proj \\ 
+    Due \dueDate \\
+    \instructor
+}
+
+\section*{Problem 1 (7 points)}
+
+Assume you are given a planar subdivision with $n$ faces in a DCEL. (You may
+assume that the planar subdivision does not contain any holes, i.e., there are
+no nested faces.) Give pseudo-code for an algorithms that given a vertex $v$ of
+the DCEL, outputs all neighbors of $v$.
+
+\section*{Problem 2 (8 points)}
+
+Assume you are given a planar subdivision of $O(n)$ size in a DCEL. (You may
+assume that the planar subdivision does not contain any holes, i.e., there are
+no nested faces.) Describe an algorithm that for a given point $p$ in the plane
+finds the face in the subdivision that contains it. Your algorithm should run in
+$O(n)$ time. You do not have to write pseudo-code, but please make clear what
+DCEL operations you are using. Also please make sure the analysis is detailed
+enough to justify the $O(n)$ runtime clearly.
+
+\section*{Problem 3 (20 points)}
+
+Assume you are given a collection of $n$ circles $\{C_1 , \ldots , C_n \}$ in
+$\R^2$, where circle $C_i$ is presented as its center point $q_i = (x_i, y_i)$
+and radius $r_i > 0$. Present an $O(n \log n)$ time algorithm that determines
+whether any two circles intersect. Note that one circle may be nested within
+another without intersecting (see Figure 1). Your algorithm should either output
+that there is no intersection, or that there is at least one intersection, and
+if so it will output the indices of $i$ and $j$ of two circles $C_i$ and $C_j$
+that intersect. Irrespective of the number of intersecting pairs, it need only
+output one intersecting pair.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\textwidth]{intersection}
+    \caption{Problem 3: Intersection}
+\end{figure}
+
+Hint: Use plane-sweep. Explain clearly (1) what the sweep-line status stores and
+what data structure is used to store this information and (2) what future events
+are stored and what data structure is used. You may assume that you have access
+to whatever primitive operations that you need in constant time. For example, if
+you want to determine (a) whether two circles intersect, (b) the coordinates of
+an intersection, (c) the intersection of a line with a circle, (d) whether a
+point is contained within a circle's interior, etc., you may simply assume the
+existence of a function that runs in $O(1)$ time. As always, you may make
+whatever general-position assumptions you like.
+
+
+\section*{Problem 4 (5 point)}
+
+I have had a few people ask about drawings and making figures.  One tool that I
+like to use is Ipe (written by Otfried Cheong).  Ipe allows you to draw content
+on layers and show and hide the different layers.  Layers are very helpful if,
+for example you want to draw a point set and then show how some data structures
+in an algorithm change as you sweep across the point set.
+Other vector graphics tools such asIllustrator and Inkscape are also quite good.
+
+Setup Ipe \url{http://ipe.otfried.org/}, Illustrator, or Inkscape
+(or another vector graphics tool)
+to create 3 images of the state of the sweep line algorithm
+described in problem 3.
+
+\section*{Tips and Acknowledgements}
+
+For drawing pictures with Ipe, check out the layer pallet (in the bottom
+left hand corner).  It is very helpful for creating algorithm animations.
+
+{\bf Acknowledgements:} Homework problems adapted from assignments of David
+Mount and Carola Wenk.
+
+\end{document}
