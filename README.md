@@ -69,7 +69,7 @@ in class.
 | Date | Description                                    | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
 |------|------------------------------------------------|----------------------|----------------------|--------------------------------------------|--------------------------------------------------------------------|
 | 2/02 | [DCEL](./notes/2021-02-02.pdf)                 |                      |                      | DMLN L24, CGAA 2.2-.3                      | [1](https://montana.box.com/s/8zuz9fc84ckja73l6dxsxifrlb7lr6xq)    |
-| 2/04 | Polygon triangulation                          | [HW 02](./hw/02.pdf) |                      | DMLN L6, CGAA 3.2                          |
+| 2/04 | [Polygon triangulation](./notes/2021-02-04.pdf)| [HW 02](./hw/02.pdf) |                      | DMLN L6, CGAA 3.2                          | [1](https://montana.box.com/s/se3imniq2jwhaixh39v4p2trvjq2qy4b)    |
 |      |                                                |                      |                      |                                            |
 | 2/09 |                                                |                      |                      |                                            |
 | 2/11 |                                                |                      | [HW 02](./hw/02.pdf) |                                            |
