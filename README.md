@@ -71,11 +71,11 @@ in class.
 |------|------------------------------------------------|----------------------|----------------------|--------------------------------------------|--------------------------------------------------------------------|
 | 2/02 | [DCEL](./notes/2021-02-02.pdf)                 |                      |                      | DMLN L24, CGAA 2.2-.3                      | [1](https://montana.box.com/s/8zuz9fc84ckja73l6dxsxifrlb7lr6xq)    |
 | 2/04 | [Polygon triangulation](./notes/2021-02-04.pdf)| [HW 02](./hw/02.pdf) |                      | DMLN L6, CGAA 3.2                          | [1](https://montana.box.com/s/se3imniq2jwhaixh39v4p2trvjq2qy4b)    |
-|      |                                                |                      |                      |                                            |
+|      |                                                |                      |                      |                                            |                                                                    |
 | 2/09 | [Poly Triang pt 2](./notes/2021-02-09.pdf)     |                      |                      | DMLN L6, CGAA 3.2                          | [1](https://montana.box.com/s/v7ylrg2mi63ki2xkxoyp1cv1gorwv8xy)    |
-| 2/11 | [Polygon Guarding](./notes/2021-02-15.pdf)     |                      | [HW 02](./hw/02.pdf) | CGAA 3.1-.2                                | [1](https://montana.box.com/s/jiue1drr3valzb4bc30hyd3izkksxodr)    |
-|      |                                                |                      |                      |                                            |
-| 2/16 |  GD: Rooted Trees                              |                      |                      | GD 3                                       |
+| 2/11 | [Polygon Guarding](./notes/2021-02-11.pdf)     |                      | [HW 02](./hw/02.pdf) | CGAA 3.1-.2                                | [1](https://montana.box.com/s/jiue1drr3valzb4bc30hyd3izkksxodr)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 2/16 | [GD: Rooted Trees](./notes/2021-02-16.pdf)     |                      |                      | GD 3                                       | [1](https://montana.box.com/s/xs8kiqm1gxuhkrukaekgsdsvulqb76no)    |
 | 2/18 | Exam 1                                         |                      |                      |                                            |
 |      |                                                |                      |                      |                                            |
 | 2/23 |                                                |                      |                      |                                            |
