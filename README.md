@@ -78,7 +78,7 @@ in class.
 | 2/16 | [GD: Rooted Trees](./notes/2021-02-16.pdf)     |                      |                      | GD 3                                       | [1](https://montana.box.com/s/xs8kiqm1gxuhkrukaekgsdsvulqb76no)    |
 | 2/18 | Exam 1                                         |                      |                      |                                            |
 |      |                                                |                      |                      |                                            |
-| 2/23 |                                                |                      |                      |                                            |
+| 2/23 | [Traps](./notes/2021-02-23.pdf)                |                      |                      |                                            | [1](https://montana.box.com/s/eqit1unrpzf6ap8shm82f7pq3gqtk0wh)    |
 | 2/25 |                                                |                      |                      |                                            |
 
 ### March
