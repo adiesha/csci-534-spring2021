@@ -76,10 +76,10 @@ in class.
 | 2/11 | [Polygon Guarding](./notes/2021-02-11.pdf)     |                      | [HW 02](./hw/02.pdf) | CGAA 3.1-.2                                | [1](https://montana.box.com/s/jiue1drr3valzb4bc30hyd3izkksxodr)    |
 |      |                                                |                      |                      |                                            |                                                                    |
 | 2/16 | [GD: Rooted Trees](./notes/2021-02-16.pdf)     |                      |                      | GD 3                                       | [1](https://montana.box.com/s/xs8kiqm1gxuhkrukaekgsdsvulqb76no)    |
-| 2/18 | Exam 1                                         |                      |                      |                                            |
-|      |                                                |                      |                      |                                            |
+| 2/18 | Exam 1                                         |                      |                      |                                            |                                                                    |
+|      |                                                |                      |                      |                                            |                                                                    |
 | 2/23 | [Traps](./notes/2021-02-23.pdf)                |                      |                      |                                            | [1](https://montana.box.com/s/eqit1unrpzf6ap8shm82f7pq3gqtk0wh)    |
-| 2/25 |                                                |                      |                      |                                            |
+| 2/25 | [Traps 2](./notes/2021-02-25.pdf)              |                      |                      |                                            | [1](https://montana.box.com/s/fo51npkr1fjqib5o9gps1v4gbm52fufk)    |
 
 ### March
 
