@@ -76,28 +76,28 @@ in class.
 | 2/11 | [Polygon Guarding](./notes/2021-02-11.pdf)     |                      | [HW 02](./hw/02.pdf) | CGAA 3.1-.2                                | [1](https://montana.box.com/s/jiue1drr3valzb4bc30hyd3izkksxodr)    |
 |      |                                                |                      |                      |                                            |                                                                    |
 | 2/16 | [GD: Rooted Trees](./notes/2021-02-16.pdf)     |                      |                      | GD 3                                       | [1](https://montana.box.com/s/xs8kiqm1gxuhkrukaekgsdsvulqb76no)    |
-| 2/18 | Exam 1                                         |                      |                      |                                            |
-|      |                                                |                      |                      |                                            |
-| 2/23 |                                                |                      |                      |                                            |
-| 2/25 |                                                |                      |                      |                                            |
+| 2/18 | Exam 1                                         |                      |                      |                                            |                                                                    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 2/23 | [Traps](./notes/2021-02-23.pdf)                |                      |                      | DMLN L9, GCAA 6.1-.2                       | [1](https://montana.box.com/s/eqit1unrpzf6ap8shm82f7pq3gqtk0wh)    |
+| 2/25 | [Traps 2](./notes/2021-02-25.pdf)              |                      |                      | DMLN L9-10, CGAA 6.1-.2                    | [1](https://montana.box.com/s/fo51npkr1fjqib5o9gps1v4gbm52fufk)    |
 
 ### March
 
-| Date | Description                                                                       | Assigned                           | Due                                   | Proj | Recommended Reading                        |
-|------|-----------------------------------------------------------------------------------|------------------------------------|---------------------------------------|------|--------------------------------------------|
-| 3/02 |                                                                                   |                                    |                                       |      |                                            |
-| 3/04 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 3/09 | Exam 2 (tentative)                                                                |                                    |                                       |      |                                            |
-| 3/11 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 3/16 |                                                                                   |                                    |                                       |      |                                            |
-| 3/18 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 3/23 |                                                                                   |                                    |                                       |      |                                            |
-| 3/25 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 3/30 |                                                                                   |                                    |                                       |  X   |                                            |
+| Date | Description                                    | Assigned             | Due                  | Proj | Recommended Reading                 | Video                                                              |
+|------|------------------------------------------------|----------------------|----------------------|------|-------------------------------------|--------------------------------------------------------------------|
+| 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      |      | DMLN L10, CGAA 6.1-.2               | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
+| 3/04 | Half Plane Intersection                        |                      |                      |      | DMLN L7, CGAA 4.2                   |
+|      |                                                |                      |                      |      |                                     |
+| 3/09 |                                                |                      | [HW 03](./hw/03.pdf) |      |                                     |
+| 3/11 |                                                |  HW 04 (tentative)   |                      |      |                                     |
+|      |                                                |                      |                      |      |                                     |
+| 3/16 |                                                |                      |                      |      |                                     |
+| 3/18 |                                                |                      | HW 04 (tentative)    |      |                                     |
+|      |                                                |                      |                      |      |                                     |
+| 3/23 |                                                |                      |                      |      |                                     |
+| 3/25 |   Exam 2 (tentative)                           |                      |                      |      |                                     |
+|      |                                                |                      |                      |      |                                     |
+| 3/30 |                                                |                      |                      |  X   |                                     |
 
 
 ### April
