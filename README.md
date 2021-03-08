@@ -83,21 +83,21 @@ in class.
 
 ### March
 
-| Date | Description                                    | Assigned             | Due                  | Proj | Recommended Reading                 | Video                                                              |
-|------|------------------------------------------------|----------------------|----------------------|------|-------------------------------------|--------------------------------------------------------------------|
-| 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      |      | DMLN L10, CGAA 6.1-.2               | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
-| 3/04 | [1/2-Plane Intersect](./notes/2021-03-04.pdf)  |                      |                      |      | DMLN L7, CGAA 4.2                   | [1](https://montana.box.com/s/02z66tn6bw8rg2gocpovxkhtlpoxha7u)    |
-|      |                                                |                      |                      |      |                                     |
-| 3/09 |  RIC of LP                                     |                      | [HW 03](./hw/03.pdf) |      |                                     |
-| 3/11 |                                                | [HW 04](./hw/04.pdf) |                      |      |                                     |
-|      |                                                |                      |                      |      |                                     |
-| 3/16 |                                                |                      |                      |      |                                     |
-| 3/18 |                                                | HW 05                | [HW 04](./hw/04.pdf) |      |                                     |
-|      |                                                |                      |                      |      |                                     |
-| 3/23 |                                                |                      |                      |      |                                     |
-| 3/25 |                                                |                      | HW 05                |      |                                     |
-|      |                                                |                      |                      |      |                                     |
-| 3/30 |                                                |                      |                      |      |                                     |
+| Date | Description                                    | Assigned             | Due                  | Recommended Reading                 | Video                                                              |
+|------|------------------------------------------------|----------------------|----------------------|-------------------------------------|--------------------------------------------------------------------|
+| 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      | DMLN L10, CGAA 6.1-.2               | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
+| 3/04 | [1/2-Plane Intersect](./notes/2021-03-04.pdf)  |                      |                      | DMLN L7, CGAA 4.2                   | [1](https://montana.box.com/s/02z66tn6bw8rg2gocpovxkhtlpoxha7u)    |
+|      |                                                |                      |                      |                                     |
+| 3/09 |  RIC of LP                                     |                      | [HW 03](./hw/03.pdf) |                                     |
+| 3/11 |                                                | [HW 04](./hw/04.pdf) |                      |                                     |
+|      |                                                |                      |                      |                                     |
+| 3/16 |                                                |                      |                      |                                     |
+| 3/18 |                                                | HW 05                | [HW 04](./hw/04.pdf) |                                     |
+|      |                                                |                      |                      |                                     |
+| 3/23 |                                                |                      |                      |                                     |
+| 3/25 |                                                |                      | HW 05                |                                     |
+|      |                                                |                      |                      |                                     |
+| 3/30 |                                                |                      |                      |                                     |
 
 
 ### April
