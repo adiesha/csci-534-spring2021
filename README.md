@@ -88,7 +88,7 @@ in class.
 | 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      | DMLN L10, CGAA 6.1-.2               | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
 | 3/04 | [1/2-Plane Intersect](./notes/2021-03-04.pdf)  |                      |                      | DMLN L7, CGAA 4.2                   | [1](https://montana.box.com/s/02z66tn6bw8rg2gocpovxkhtlpoxha7u)    |
 |      |                                                |                      |                      |                                     |
-| 3/09 |  RIC of LP                                     |                      | [HW 03](./hw/03.pdf) |                                     |
+| 3/09 |  RIC of LP                                     |                      | [HW 03](./hw/03.pdf) | DMLN L8, CGAA 4.3-.6                |
 | 3/11 |                                                | [HW 04](./hw/04.pdf) |                      |                                     |
 |      |                                                |                      |                      |                                     |
 | 3/16 |                                                |                      |                      |                                     |
@@ -120,11 +120,8 @@ in class.
 
 ### Potential Upcoming Topics:
 
-- Trapizoidation
-- Duality
-- Linear Programming
-- Voronoi Diagram
-- Delaunay Triangulation
+- Voronoi Diagram (DMLN 11, CGAA 7.1-.2)
+- Delaunay Triangulation (DMLN 12, CGAA 9.1-.2 / DMLN 13, CGAA 9.3-.4)
 - Motion Planning
 - Arrangements
 - Range searching
