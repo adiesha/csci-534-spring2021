@@ -64,7 +64,7 @@ in class.
 |      |                                                |                      |                      |                                            |                                                                    |
 | 1/26 | [Seg Intersect](./notes/2021-01-26.pdf)        |                      |                      | DMLN L5, CGAA 2.1                          | [1](https://montana.box.com/s/twlsoy2xkmoejeaqypuegh9oxskt2kcw)    |
 | 1/28 | [Seg Intersect 2](./notes/2021-01-28.pdf)      |                      | [HW 01](./hw/01.pdf) | DMLN L5, CGAA 2.1                          | [1](https://montana.box.com/s/eias1xo869v3icu56lhooe7h81gx3r9v)    |
-
+
 ### Feb
 
 | Date | Description                                    | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
@@ -88,35 +88,35 @@ in class.
 | 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      |      | DMLN L10, CGAA 6.1-.2               | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
 | 3/04 | [1/2-Plane Intersect](./notes/2021-03-04.pdf)  |                      |                      |      | DMLN L7, CGAA 4.2                   | [1](https://montana.box.com/s/02z66tn6bw8rg2gocpovxkhtlpoxha7u)    |
 |      |                                                |                      |                      |      |                                     |
-| 3/09 |                                                |                      | [HW 03](./hw/03.pdf) |      |                                     |
-| 3/11 |                                                |  HW 04 (tentative)   |                      |      |                                     |
+| 3/09 |  RIC of LP                                     |                      | [HW 03](./hw/03.pdf) |      |                                     |
+| 3/11 |                                                | [HW 04](./hw/04.pdf) |                      |      |                                     |
 |      |                                                |                      |                      |      |                                     |
 | 3/16 |                                                |                      |                      |      |                                     |
-| 3/18 |                                                |                      | HW 04 (tentative)    |      |                                     |
+| 3/18 |                                                | HW 05                | [HW 04](./hw/04.pdf) |      |                                     |
 |      |                                                |                      |                      |      |                                     |
 | 3/23 |                                                |                      |                      |      |                                     |
-| 3/25 |   Exam 2 (tentative)                           |                      |                      |      |                                     |
+| 3/25 |                                                |                      | HW 05                |      |                                     |
 |      |                                                |                      |                      |      |                                     |
-| 3/30 |                                                |                      |                      |  X   |                                     |
+| 3/30 |                                                |                      |                      |      |                                     |
 
 
 ### April
 
-| Date | Description                                                                       | Assigned                           | Due                                   | Proj | Recommended Reading                        |
-|------|-----------------------------------------------------------------------------------|------------------------------------|---------------------------------------|------|--------------------------------------------|
-| 4/01 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 4/06 |                                                                                   |                                    |                                       |  X   |                                            |
-| 4/08 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 4/13 |                                                                                   |                                    |                                       |  X   |                                            |
-| 4/15 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 4/20 |                                                                                   |                                    |                                       |  X   |                                            |
-| 4/22 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 4/27 | Finals week                                                                       |                                    |                                       |  X   |                                            |
-| 4/29 | Finals Week                                                                       |                                    |                                       |      |                                            |
+| Date | Description                                    | Assigned             | Due                  | Proj | Recommended Reading                        |
+|------|------------------------------------------------|----------------------|----------------------|------|--------------------------------------------|
+| 4/01 | Exam 2                                         |                      |                      |      |                                            |
+|      |                                                |                      |                      |      |                                            |
+| 4/06 |                                                |                      |                      |  X   |                                            |
+| 4/08 |                                                |                      |                      |  X   |                                            |
+|      |                                                |                      |                      |      |                                            |
+| 4/13 |                                                |                      |                      |      |                                            |
+| 4/15 |                                                |                      |                      |  X   |                                            |
+|      |                                                |                      |                      |      |                                            |
+| 4/20 |                                                |                      |                      |      |                                            |
+| 4/22 |                                                |                      |                      |  X   |                                            |
+|      |                                                |                      |                      |      |                                            |
+| 4/27 | Finals week                                    |                      |                      |  X   |                                            |
+| 4/29 | Finals Week                                    |                      |                      |  X   |                                            |
 
 ### Potential Upcoming Topics:
 
@@ -139,8 +139,8 @@ in class.
 
 Your grade for this class will be determined by:
 
-* 30% [Group Project](./projs/final-proj.pdf)
-* 40% Homework (lowest homework is dropped)
+* 30% [Group Project](./hw/proj.pdf)
+* 40% [Homework](./hw/) (lowest homework is dropped)
 * 15% Exam 1
 * 15% Exam 2
 
