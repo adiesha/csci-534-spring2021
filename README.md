@@ -91,8 +91,8 @@ in class.
 | 3/09 | [LP 1](./notes/2021-03-09.pdf)                 |                      | [HW 03](./hw/03.pdf) | DMLN L8, CGAA 4.3-.6                | [1](https://montana.box.com/s/32oosmp4i7eafrfojojjmq7ou1dgvzn8)    |
 | 3/11 | [LP 2](./notes/2021-03-11.pdf)                 | [HW 04](./hw/04.pdf) |                      | DMLN L8, CGAA 4.3-.6                | [1](https://montana.box.com/s/ws77sns3lbg383jgl7u9e21s8i2g0xpv)    |
 |      |                                                |                      |                      |                                     |                                                                    |
-| 3/16 | Voronoi Diagram                                |                      |                      | DMLN 11, CGAA 7.1-.2                |
-| 3/18 |                                                | HW 05                | [HW 04](./hw/04.pdf) |                                     |
+| 3/16 | [Voronoi Diagram](./notes/2021-03-16.pdf)      |                      |                      | DMLN 11, CGAA 7.1-.2                | [1](https://montana.box.com/s/vsay9lc7107go7d3ras1tdptz48jkbrh)    |
+| 3/18 | Fortunes Algo                                  | HW 05                | [HW 04](./hw/04.pdf) | DMLN 11, CGAA 7.1-.2                |
 |      |                                                |                      |                      |                                     |
 | 3/23 |                                                |                      |                      |                                     |
 | 3/25 |                                                |                      | HW 05                |                                     |
