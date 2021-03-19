@@ -92,10 +92,10 @@ in class.
 | 3/11 | [LP 2](./notes/2021-03-11.pdf)                 | [HW 04](./hw/04.pdf) |                      | DMLN L8, CGAA 4.3-.6                       | [1](https://montana.box.com/s/ws77sns3lbg383jgl7u9e21s8i2g0xpv)    |
 |      |                                                |                      |                      |                                            |                                                                    |
 | 3/16 | [Voronoi Diagram](./notes/2021-03-16.pdf)      |                      |                      | DMLN 11, CGAA 7.1-.2                       | [1](https://montana.box.com/s/vsay9lc7107go7d3ras1tdptz48jkbrh)    |
-| 3/18 | [Fortunes Algo](./notes/2021-03-18.pdf)        | HW 05                | [HW 04](./hw/04.pdf) | DMLN 11, CGAA 7.1-.2                       | [1](https://montana.box.com/s/l91d1g3wva43z9qu62w7s5866skbu0dr)    |
+| 3/18 | [Fortunes Algo](./notes/2021-03-18.pdf)        | [HW 05](./hw/05.pdf) | [HW 04](./hw/04.pdf) | DMLN 11, CGAA 7.1-.2                       | [1](https://montana.box.com/s/l91d1g3wva43z9qu62w7s5866skbu0dr)    |
 |      |                                                |                      |                      |                                            |                                                                    |
 | 3/23 | Delaunay                                       |                      |                      | DMLN 12, CGAA 9.1-.2                       |
-| 3/25 |                                                |                      | HW 05                |                                            |
+| 3/25 |                                                |                      | [HW 05](./hw/05.pdf) |                                            |
 |      |                                                |                      |                      |                                            |
 | 3/30 |                                                |                      |                      |                                            |
 
