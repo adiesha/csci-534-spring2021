@@ -83,21 +83,21 @@ in class.
 
 ### March
 
-| Date | Description                                    | Assigned             | Due                  | Recommended Reading                 | Video                                                              |
-|------|------------------------------------------------|----------------------|----------------------|-------------------------------------|--------------------------------------------------------------------|
-| 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      | DMLN L10, CGAA 6.1-.2               | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
-| 3/04 | [1/2-Plane Intersect](./notes/2021-03-04.pdf)  |                      |                      | DMLN L7, CGAA 4.2                   | [1](https://montana.box.com/s/02z66tn6bw8rg2gocpovxkhtlpoxha7u)    |
-|      |                                                |                      |                      |                                     |                                                                    |
-| 3/09 | [LP 1](./notes/2021-03-09.pdf)                 |                      | [HW 03](./hw/03.pdf) | DMLN L8, CGAA 4.3-.6                | [1](https://montana.box.com/s/32oosmp4i7eafrfojojjmq7ou1dgvzn8)    |
-| 3/11 | [LP 2](./notes/2021-03-11.pdf)                 | [HW 04](./hw/04.pdf) |                      | DMLN L8, CGAA 4.3-.6                | [1](https://montana.box.com/s/ws77sns3lbg383jgl7u9e21s8i2g0xpv)    |
-|      |                                                |                      |                      |                                     |                                                                    |
-| 3/16 | [Voronoi Diagram](./notes/2021-03-16.pdf)      |                      |                      | DMLN 11, CGAA 7.1-.2                | [1](https://montana.box.com/s/vsay9lc7107go7d3ras1tdptz48jkbrh)    |
-| 3/18 | Fortunes Algo                                  | HW 05                | [HW 04](./hw/04.pdf) | DMLN 11, CGAA 7.1-.2                |
-|      |                                                |                      |                      |                                     |
-| 3/23 |                                                |                      |                      |                                     |
-| 3/25 |                                                |                      | HW 05                |                                     |
-|      |                                                |                      |                      |                                     |
-| 3/30 |                                                |                      |                      |                                     |
+| Date | Description                                    | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
+|------|------------------------------------------------|----------------------|----------------------|--------------------------------------------|--------------------------------------------------------------------|
+| 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      | DMLN L10, CGAA 6.1-.2                      | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
+| 3/04 | [1/2-Plane Intersect](./notes/2021-03-04.pdf)  |                      |                      | DMLN L7, CGAA 4.2                          | [1](https://montana.box.com/s/02z66tn6bw8rg2gocpovxkhtlpoxha7u)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 3/09 | [LP 1](./notes/2021-03-09.pdf)                 |                      | [HW 03](./hw/03.pdf) | DMLN L8, CGAA 4.3-.6                       | [1](https://montana.box.com/s/32oosmp4i7eafrfojojjmq7ou1dgvzn8)    |
+| 3/11 | [LP 2](./notes/2021-03-11.pdf)                 | [HW 04](./hw/04.pdf) |                      | DMLN L8, CGAA 4.3-.6                       | [1](https://montana.box.com/s/ws77sns3lbg383jgl7u9e21s8i2g0xpv)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 3/16 | [Voronoi Diagram](./notes/2021-03-16.pdf)      |                      |                      | DMLN 11, CGAA 7.1-.2                       | [1](https://montana.box.com/s/vsay9lc7107go7d3ras1tdptz48jkbrh)    |
+| 3/18 | [Fortunes Algo](./notes/2021-03-18.pdf)        | HW 05                | [HW 04](./hw/04.pdf) | DMLN 11, CGAA 7.1-.2                       | [1](https://montana.box.com/s/l91d1g3wva43z9qu62w7s5866skbu0dr)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 3/23 | Delaunay                                       |                      |                      | DMLN 12, CGAA 9.1-.2                       |
+| 3/25 |                                                |                      | HW 05                |                                            |
+|      |                                                |                      |                      |                                            |
+| 3/30 |                                                |                      |                      |                                            |
 
 
 ### April
@@ -120,7 +120,7 @@ in class.
 
 ### Potential Upcoming Topics:
 
-- Delaunay Triangulation (DMLN 12, CGAA 9.1-.2 / DMLN 13, CGAA 9.3-.4)
+- Delaunay Triangulation (DMLN 13, CGAA 9.3-.4)
 - Motion Planning
 - Arrangements
 - Range searching
