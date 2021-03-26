@@ -95,9 +95,9 @@ in class.
 | 3/18 | [Fortunes Algo](./notes/2021-03-18.pdf)        | [HW 05](./hw/05.pdf) | [HW 04](./hw/04.pdf) | DMLN 11, CGAA 7.1-.2                       | [1](https://montana.box.com/s/l91d1g3wva43z9qu62w7s5866skbu0dr)    |
 |      |                                                |                      |                      |                                            |                                                                    |
 | 3/23 | [Delaunay](./notes/2021-03-23.pdf)             |                      |                      | DMLN 12, CGAA 9.1-.2                       | [1](https://montana.box.com/s/xk0jccpjh47k0nxe8ww5a6umhcew259y)    |
-| 3/25 |  Delaunay RIC                                  |                      | [HW 05](./hw/05.pdf) | DMLN 13, CGAA 9.3-.4                       |
-|      |                                                |                      |                      |                                            |
-| 3/30 |                                                |                      |                      |                                            |
+| 3/25 | [Delaunay RIC](./notes/2021-03-25.pdf)         |                      | [HW 05](./hw/05.pdf) | DMLN 13, CGAA 9.3-.4                       | [1](https://montana.box.com/s/jaz8nawkjk4zgw3tn5mz97usldxx6hid)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 3/30 | Hulls/Env/DT/Vor                               |                      |                      | DMLN L16, CGAA 11.5                        |
 
 
 ### April
@@ -120,9 +120,8 @@ in class.
 
 ### Potential Upcoming Topics:
 
-- Delaunay Triangulation (DMLN 13, CGAA 9.3-.4)
-- Motion Planning
-- Arrangements
+- Motion Planning (DMLN L18, CGAA 13)
+- Arrangements (DMLN L14, CGAA 8.3 / DMLN L15, CGAA 8.4)
 - Range searching
 - Well separated pair decomposition
 - Geometric sampling
