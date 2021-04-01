@@ -64,7 +64,7 @@ in class.
 |      |                                                |                      |                      |                                            |                                                                    |
 | 1/26 | [Seg Intersect](./notes/2021-01-26.pdf)        |                      |                      | DMLN L5, CGAA 2.1                          | [1](https://montana.box.com/s/twlsoy2xkmoejeaqypuegh9oxskt2kcw)    |
 | 1/28 | [Seg Intersect 2](./notes/2021-01-28.pdf)      |                      | [HW 01](./hw/01.pdf) | DMLN L5, CGAA 2.1                          | [1](https://montana.box.com/s/eias1xo869v3icu56lhooe7h81gx3r9v)    |
-
+
 ### Feb
 
 | Date | Description                                    | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
@@ -83,50 +83,45 @@ in class.
 
 ### March
 
-| Date | Description                                    | Assigned             | Due                  | Proj | Recommended Reading                 | Video                                                              |
-|------|------------------------------------------------|----------------------|----------------------|------|-------------------------------------|--------------------------------------------------------------------|
-| 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      |      | DMLN L10, CGAA 6.1-.2               | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
-| 3/04 | Half Plane Intersection                        |                      |                      |      | DMLN L7, CGAA 4.2                   |
-|      |                                                |                      |                      |      |                                     |
-| 3/09 |                                                |                      | [HW 03](./hw/03.pdf) |      |                                     |
-| 3/11 |                                                |  HW 04 (tentative)   |                      |      |                                     |
-|      |                                                |                      |                      |      |                                     |
-| 3/16 |                                                |                      |                      |      |                                     |
-| 3/18 |                                                |                      | HW 04 (tentative)    |      |                                     |
-|      |                                                |                      |                      |      |                                     |
-| 3/23 |                                                |                      |                      |      |                                     |
-| 3/25 |   Exam 2 (tentative)                           |                      |                      |      |                                     |
-|      |                                                |                      |                      |      |                                     |
-| 3/30 |                                                |                      |                      |  X   |                                     |
+| Date | Description                                    | Assigned             | Due                  | Recommended Reading                        | Video                                                              |
+|------|------------------------------------------------|----------------------|----------------------|--------------------------------------------|--------------------------------------------------------------------|
+| 3/02 | [Traps 3](./notes/2021-03-02.pdf)              | [HW 03](./hw/03.pdf) |                      | DMLN L10, CGAA 6.1-.2                      | [1](https://montana.box.com/s/8rnntyjfn4havw1dxg37mffax6nx8phv)    |
+| 3/04 | [1/2-Plane Intersect](./notes/2021-03-04.pdf)  |                      |                      | DMLN L7, CGAA 4.2                          | [1](https://montana.box.com/s/02z66tn6bw8rg2gocpovxkhtlpoxha7u)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 3/09 | [LP 1](./notes/2021-03-09.pdf)                 |                      | [HW 03](./hw/03.pdf) | DMLN L8, CGAA 4.3-.6                       | [1](https://montana.box.com/s/32oosmp4i7eafrfojojjmq7ou1dgvzn8)    |
+| 3/11 | [LP 2](./notes/2021-03-11.pdf)                 | [HW 04](./hw/04.pdf) |                      | DMLN L8, CGAA 4.3-.6                       | [1](https://montana.box.com/s/ws77sns3lbg383jgl7u9e21s8i2g0xpv)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 3/16 | [Voronoi Diagram](./notes/2021-03-16.pdf)      |                      |                      | DMLN 11, CGAA 7.1-.2                       | [1](https://montana.box.com/s/vsay9lc7107go7d3ras1tdptz48jkbrh)    |
+| 3/18 | [Fortunes Algo](./notes/2021-03-18.pdf)        | [HW 05](./hw/05.pdf) | [HW 04](./hw/04.pdf) | DMLN 11, CGAA 7.1-.2                       | [1](https://montana.box.com/s/l91d1g3wva43z9qu62w7s5866skbu0dr)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 3/23 | [Delaunay](./notes/2021-03-23.pdf)             |                      |                      | DMLN 12, CGAA 9.1-.2                       | [1](https://montana.box.com/s/xk0jccpjh47k0nxe8ww5a6umhcew259y)    |
+| 3/25 | [Delaunay RIC](./notes/2021-03-25.pdf)         |                      | [HW 05](./hw/05.pdf) | DMLN 13, CGAA 9.3-.4                       | [1](https://montana.box.com/s/jaz8nawkjk4zgw3tn5mz97usldxx6hid)    |
+|      |                                                |                      |                      |                                            |                                                                    |
+| 3/30 | [Hulls/Env/DT/Vor](./notes/2021-03-30.pdf)     |                      |                      | DMLN L16, CGAA 11.5                        | [1](https://montana.box.com/s/25u1dq4v9bsvim1c7m2vyb2rny36zn6i)    |
 
 
 ### April
 
-| Date | Description                                                                       | Assigned                           | Due                                   | Proj | Recommended Reading                        |
-|------|-----------------------------------------------------------------------------------|------------------------------------|---------------------------------------|------|--------------------------------------------|
-| 4/01 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 4/06 |                                                                                   |                                    |                                       |  X   |                                            |
-| 4/08 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 4/13 |                                                                                   |                                    |                                       |  X   |                                            |
-| 4/15 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 4/20 |                                                                                   |                                    |                                       |  X   |                                            |
-| 4/22 |                                                                                   |                                    |                                       |      |                                            |
-|      |                                                                                   |                                    |                                       |      |                                            |
-| 4/27 | Finals week                                                                       |                                    |                                       |  X   |                                            |
-| 4/29 | Finals Week                                                                       |                                    |                                       |      |                                            |
+| Date | Description                                    | Assigned             | Due                  | Proj | Recommended Reading                        |
+|------|------------------------------------------------|----------------------|----------------------|------|--------------------------------------------|
+| 4/01 | Exam 2                                         |                      |                      |      |                                            |
+|      |                                                |                      |                      |      |                                            |
+| 4/06 | Arrangements 1                                 |                      |                      |  X   |                                            |
+| 4/08 |                                                |                      |                      |  X   |                                            |
+|      |                                                |                      |                      |      |                                            |
+| 4/13 |                                                |                      |                      |      |                                            |
+| 4/15 |                                                |                      |                      |  X   |                                            |
+|      |                                                |                      |                      |      |                                            |
+| 4/20 |                                                |                      |                      |      |                                            |
+| 4/22 |                                                |                      |                      |  X   |                                            |
+|      |                                                |                      |                      |      |                                            |
+| 4/27 | Finals week                                    |                      |                      |  X   |                                            |
+| 4/29 | Finals Week                                    |                      |                      |  X   |                                            |
 
 ### Potential Upcoming Topics:
 
-- Trapizoidation
-- Duality
-- Linear Programming
-- Voronoi Diagram
-- Delaunay Triangulation
-- Motion Planning
-- Arrangements
+- Arrangements (DMLN L14, CGAA 8.3 / DMLN L15, CGAA 8.4)
+- Motion Planning (DMLN L18, CGAA 13)
 - Range searching
 - Well separated pair decomposition
 - Geometric sampling
@@ -139,8 +134,8 @@ in class.
 
 Your grade for this class will be determined by:
 
-* 30% [Group Project](./projs/final-proj.pdf)
-* 40% Homework (lowest homework is dropped)
+* 30% [Group Project](./hw/proj.pdf)
+* 40% [Homework](./hw/) (lowest homework is dropped)
 * 15% Exam 1
 * 15% Exam 2
 
