@@ -97,7 +97,7 @@ in class.
 | 3/23 | [Delaunay](./notes/2021-03-23.pdf)             |                      |                      | DMLN 12, CGAA 9.1-.2                       | [1](https://montana.box.com/s/xk0jccpjh47k0nxe8ww5a6umhcew259y)    |
 | 3/25 | [Delaunay RIC](./notes/2021-03-25.pdf)         |                      | [HW 05](./hw/05.pdf) | DMLN 13, CGAA 9.3-.4                       | [1](https://montana.box.com/s/jaz8nawkjk4zgw3tn5mz97usldxx6hid)    |
 |      |                                                |                      |                      |                                            |                                                                    |
-| 3/30 | Hulls/Env/DT/Vor                               |                      |                      | DMLN L16, CGAA 11.5                        |
+| 3/30 | [Hulls/Env/DT/Vor](./notes/2021-03-30.pdf)     |                      |                      | DMLN L16, CGAA 11.5                        | [1](https://montana.box.com/s/25u1dq4v9bsvim1c7m2vyb2rny36zn6i)    |
 
 
 ### April
@@ -106,7 +106,7 @@ in class.
 |------|------------------------------------------------|----------------------|----------------------|------|--------------------------------------------|
 | 4/01 | Exam 2                                         |                      |                      |      |                                            |
 |      |                                                |                      |                      |      |                                            |
-| 4/06 |                                                |                      |                      |  X   |                                            |
+| 4/06 | Arrangements 1                                 |                      |                      |  X   |                                            |
 | 4/08 |                                                |                      |                      |  X   |                                            |
 |      |                                                |                      |                      |      |                                            |
 | 4/13 |                                                |                      |                      |      |                                            |
@@ -120,8 +120,8 @@ in class.
 
 ### Potential Upcoming Topics:
 
-- Motion Planning (DMLN L18, CGAA 13)
 - Arrangements (DMLN L14, CGAA 8.3 / DMLN L15, CGAA 8.4)
+- Motion Planning (DMLN L18, CGAA 13)
 - Range searching
 - Well separated pair decomposition
 - Geometric sampling
